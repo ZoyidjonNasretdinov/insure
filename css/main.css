@@ -22,7 +22,7 @@
 }
 
 body {
-    font-family: "Karla" "";
+    font-family: 'Karla' Arial, Helvetica, sans-serif ;
     font-weight: 400;
 }
 
@@ -130,6 +130,7 @@ img {
 }
 
 .hero-title {
+    margin-top: 0;
     margin-bottom: 16px;
     color: #fff;
     font-size: 72px;
@@ -138,7 +139,7 @@ img {
 }
 
 .hero-desc {
-    margin-bottom: 24px;
+    margin-bottom: 37px;
     color: #FFF;
     line-height: 26px;
 }
